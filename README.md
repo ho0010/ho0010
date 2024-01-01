@@ -2,7 +2,10 @@
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ghwns8893)](https://solved.ac/유저네임)
 [![유저네임's GitHub stats](https://github-readme-stats.vercel.app/api?username=ho0010)](https://github.com/ho0010/github-readme-stats)
-
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ho0010&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ho0010&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+</p>
 <!--
 **ho0010/ho0010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
