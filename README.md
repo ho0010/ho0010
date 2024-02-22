@@ -1,6 +1,6 @@
 # 🐾
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ghwns8893)](https://solved.ac/ho0010)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ghwns8893)](https://solved.ac/ho0010) 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ho0010&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -11,6 +11,9 @@
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white">
 
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ho0010)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **ho0010/ho0010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
