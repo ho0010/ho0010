@@ -1,7 +1,5 @@
 # 🐾
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ghwns8893)](https://solved.ac/ho0010) 
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ho0010&show_icons=true&theme=black)](https://github.com/anuraghazra/github-readme-stats)
 
 
