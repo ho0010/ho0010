@@ -3,6 +3,14 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ho0010&show_icons=true&theme=black)](https://github.com/anuraghazra/github-readme-stats)
 
 
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=ho0010&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/ho0010"
+  width="600"
+  height="300"
+/>
+</a>
+
 <!--
 **ho0010/ho0010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
