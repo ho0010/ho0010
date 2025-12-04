@@ -1,7 +1,5 @@
 # 🐾
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ho0010&show_icons=true&theme=black)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 **ho0010/ho0010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
